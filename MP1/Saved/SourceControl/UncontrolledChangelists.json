@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/blaineh2/Desktop/CS 415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/blaineh2/Desktop/CS 415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/blaineh2/Desktop/CS 415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/blaineh2/Desktop/CS 415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/blaineh2/Desktop/CS 415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/blaineh2/Desktop/CS 415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_HUD.uasset",
+				"/Users/blaineh2/Desktop/CS 415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Health.uasset",
+				"/Users/mohnish/source/repos/CS415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_HUD.uasset"
+			]
+		}
+	]
+}
